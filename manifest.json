@@ -1,11 +1,11 @@
 {
-    "name": "jordan_erp",
-    "short_name": "jordan_erp",
+    "name": "نظام الأردن لتخطيط الموارد · Jordan ERP",
+    "short_name": "Jordan ERP",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#F5F7F8",
+    "theme_color": "#0F766E",
+    "description": "Jordan ERP demo (simulated data)",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
